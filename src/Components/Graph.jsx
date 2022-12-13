@@ -13,6 +13,7 @@ const Graph = (maps) => {
     
     console.log(maps.maps)
 
+
   return (
         <div style={{ textAlign: "center" }}>
       <div>
