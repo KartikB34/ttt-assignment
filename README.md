@@ -68,3 +68,13 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+##Components:
+The fetching of data and submit button is implemented on App.js in src folder.
+The graph is implemented on src/components/graph.jsx file
+
+##Libraries user:
+axios: for fetching the online data
+TailwindCSS: for designing the button
+recharts: for building the histogram
